@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfQuest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quest>
+    <name>esfes</name>
+    <description>seefs</description>
+    <current>0</current>
+    <count>223</count>
+    <money>42</money>
+    <exp>20</exp>
+    <returnToQuestGiver>false</returnToQuestGiver>
+    <dirty>false</dirty>
+  </Quest>
+</ArrayOfQuest>
